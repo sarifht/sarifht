@@ -1,14 +1,14 @@
 ### Hi! 👋 I'm Sarif Hidayatullah.
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+An independent Software Developer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+I'm currently active in contributing as Mentor UIUX Design at <a href="https://www.infinitelearning.id/">@InfiniteLearning</a> to mentoring courses in UIUX Design (Web, Android).
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
+- 🔭 I’m currently working mentor on<a href="https://www.infinitelearning.id/">@InfiniteLearning</a>
+- 🌱 I’m currently learning about cloud technology and devOps
 - 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Father of a daughter
+- 📫 How to reach me: sarif@infinitelearning.id
+- ⚡ Fun fact: Electrical Engineering Student ⚡️
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
@@ -21,14 +21,13 @@ I'm currently active in contributing as Curriculum Developer at <a href="https:/
   
 ### Github Statistic
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/sarifht">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarifht&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarifht&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
 ### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+- <a href="https://linkedin.com/in/sarifht/">LinkedIn</a>
+- sarif@infinitelearning.id
+- <a href="https://www.instagram.com/sarifht/">Instagram</a>
