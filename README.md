@@ -29,5 +29,4 @@ I'm currently active in contributing as Mentor UIUX Design at <a href="https://w
 
 ### Reach me on
 - <a href="https://linkedin.com/in/sarifht/">LinkedIn</a>
-- sarif@infinitelearning.id
 - <a href="https://www.instagram.com/sarifht/">Instagram</a>
