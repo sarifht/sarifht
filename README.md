@@ -5,17 +5,30 @@ An independent Software Developer who loves to create and share projects about w
 I'm currently active in contributing as Mentor UIUX Design at <a href="https://www.infinitelearning.id/">@InfiniteLearning</a> to mentoring courses in UIUX Design (Web, Android).
 
 - 🔭 I’m currently working mentor on<a href="https://www.infinitelearning.id/">@InfiniteLearning</a>
-- 🌱 I’m currently learning about cloud technology and devOps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: sarif@infinitelearning.id
+- 🌱 I’m currently learning about Front-End Developer and Flutter Developer.
 - ⚡ Fun fact: Electrical Engineering Student ⚡️
 
 ### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
+<a href="https://www.w3schools.com/html/">
+  <img align="left" alt="HTML" title="HTML" width="25px" height="25px" src="https://www.svgrepo.com/show/349402/html5.svg" />
+</a>
+<a href="https://www.w3schools.com/css/">
+  <img align="left" alt="CSS" title="CSS" width="26px" height="26px" src="https://www.svgrepo.com/show/349330/css3.svg" />
+</a>
+<a href="https://www.w3schools.com/js/">
+  <img align="left" alt="JavaScript" title="JavaScript" width="24px" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
+</a>
+<a href="https://reactjs.org/">
+  <img align="left" alt="React" title="React" width="24px" height="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
+</a>
+<a href="https://dart.dev/">
+  <img align="left" alt="Dart" title="Dart" width="24px" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
+</a>
+<a href="https://flutter.dev/">
+  <img align="left" alt="Flutter" title="Flutter" width="24px" height="24px" src="https://www.svgrepo.com/show/353751/flutter.svg" />
+</a>
+
+
   <br>
   <br>
   
@@ -29,7 +42,3 @@ I'm currently active in contributing as Mentor UIUX Design at <a href="https://w
   </a>
 </p>
 
-
-### Reach me on
-- <a href="https://linkedin.com/in/sarifht/">LinkedIn</a>
-- <a href="https://www.instagram.com/sarifht/">Instagram</a>
