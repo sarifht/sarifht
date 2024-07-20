@@ -19,13 +19,16 @@ I'm currently active in contributing as Mentor UIUX Design at <a href="https://w
   <br>
   <br>
   
-### Github Statistic
-<p align="left">
-<a href="https://github.com/sarifht">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarifht&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarifht&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+### My Activities
+<p style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/sarifht">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarifht&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/sarifht">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarifht&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
 </p>
+
 
 ### Reach me on
 - <a href="https://linkedin.com/in/sarifht/">LinkedIn</a>
