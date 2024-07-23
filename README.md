@@ -1,14 +1,19 @@
-### Hi! 👋 I'm Sarif Hidayatullah.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarifht&label=Profile%20views&color=0e75b6&style=flat" alt="sarifht" /> </p>
 
-An independent Software Developer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+# Hi! 👋 I'm Sarif Hidayatullah.
+You can call me "Sarif" not "SaRIP" yeah 😭 👉👈
 
-I'm currently active in contributing as Mentor UIUX Design at <a href="https://www.infinitelearning.id/">@InfiniteLearning</a> to mentoring courses in UIUX Design (Web, Android).
+Nice to meet you there! and welcome to my profile 🍷 I'm passionate about exploring the world of software engineering, especially front-end development. Let's learn together, and I hope you enjoy the journey as well! 😜😝
 
-- 🔭 I’m currently working mentor on<a href="https://www.infinitelearning.id/">@InfiniteLearning</a>
-- 🌱 I’m currently learning about Front-End Developer and Flutter Developer.
-- ⚡ Fun fact: Electrical Engineering Student ⚡️
+I'm currently an active Mentor in UI/UX Design at <a href="https://www.infinitelearning.id/">@InfiniteLearning</a>, guiding courses in both web and Android UI/UX design 📱🖥️
 
-### Tech Stack
+- 🌱 Connect with me on LinkedIn; you can find the link in my profile on the left.
+- ☕ I’m currently learning about Front-End Development and Flutter Development.
+- ⚡ Fun fact: I’m an Electrical Engineering student!
+
+<br>
+
+## Tech Stack
 <a href="https://www.w3schools.com/html/">
   <img align="left" alt="HTML" title="HTML" width="25px" height="25px" src="https://www.svgrepo.com/show/349402/html5.svg" />
 </a>
@@ -32,7 +37,7 @@ I'm currently active in contributing as Mentor UIUX Design at <a href="https://w
   <br>
   <br>
   
-### My Activities
+## My Activities
 <p style="display: flex; justify-content: space-between;">
   <a href="https://github.com/sarifht">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarifht&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
