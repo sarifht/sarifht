@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarifht&label=Profile%20views&color=0e75b6&style=flat" alt="sarifht" /> </p>
 
-# Hi! 👋 I'm Sarif Hidayatullah.
+# Hi there👋 I'm Sarif Hidayatullah🧑‍🦰
 You can call me "Sarif" not "SaRIP" yeah 😭 👉👈
 
 Nice to meet you there! and welcome to my profile 🍷 I'm passionate about exploring the world of software engineering, especially front-end development. Let's learn together, and I hope you enjoy the journey as well! 😜😝
