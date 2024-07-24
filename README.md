@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarifht&label=Profile%20views&color=0e75b6&style=flat" alt="sarifht" /> </p>
-
 # Hi there👋 I'm Sarif Hidayatullah🧑‍🦰
 You can call me "Sarif" not "SaRIP" yeah 😭 👉👈
 
@@ -48,9 +46,9 @@ I'm currently an active Facilitator UI/UX Design at <a href="https://www.infinit
 </p>
 
 ## My Streak
-<div style="display: flex; justify-content: space-between; align-items: center; margin: 0;">
+<div style="display: flex; justify-content: space-between; align-items:left; max-width: 100%; center; margin: 0;">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sarifht&theme=algolia" style="max-width: 100%; max-height: 100vh;" alt="GitHub Streak">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sarifht&theme=algolia" style="max-width: 100%;" alt="GitHub Streak">
   </a>
 </div>
 
