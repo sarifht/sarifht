@@ -47,3 +47,10 @@ I'm currently an active Facilitator UI/UX Design at <a href="https://www.infinit
   </a>
 </p>
 
+## My Streak
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0;">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=sarifht&theme=dark" style="max-width: 100%; max-height: 100vh;" alt="GitHub Streak">
+  </a>
+</div>
+
