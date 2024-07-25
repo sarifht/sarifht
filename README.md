@@ -37,8 +37,8 @@ I'm currently an active Facilitator UI/UX Design at <a href="https://www.infinit
   
 ## My Activities
 <p style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/sarifht">
+    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarifht&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
   <a href="https://github.com/sarifht">
     <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarifht&layout=compact&langs_count=8&theme=algolia"/>
