@@ -51,5 +51,3 @@ I'm currently an active Facilitator UI/UX Design at <a href="https://www.infinit
     <img src="https://github-readme-streak-stats.herokuapp.com?user=sarifht&theme=algolia" style="max-width: 100%;" alt="GitHub Streak">
   </a>
 </div>
-.
-
