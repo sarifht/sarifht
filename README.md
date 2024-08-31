@@ -5,8 +5,8 @@ Nice to meet you there! and welcome to my profile 🍷 I'm passionate about expl
 
 I'm currently an active Facilitator UI/UX Design at <a href="https://www.infinitelearning.id/">Infinite Learning Indonesia</a>, guiding courses in web and mobile UI/UX design 📱🖥️
 
-- 🌱 Connect with me on LinkedIn; you can find the link in my profile on the left.
-- ☕ I’m currently learning about Front-End Development and Flutter Development.
+- 🙌 Connect with me on LinkedIn; you can find the link in my profile on the left.
+- 🕶️ I’m currently learning about Front-End Development and Flutter Development.
 - ⚡ Fun fact: I’m an Electrical Engineering student!
 
 <br>
@@ -18,19 +18,11 @@ I wouldn’t say I've got it all figured out yet ✌️. I'm learning as I go, w
 
 ![JavaScript](https://img.shields.io/badge/javascript-%231F1F1F.svg?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%231F1F1F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://www.figma.com)
 
 
-  <br>
-  <br>
-  
-## My Activities
-<p style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/sarifht">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarifht&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  </a>
-  <a href="https://github.com/sarifht">
-    <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarifht&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+
+<br>
+
 
 
