@@ -19,11 +19,11 @@ I wouldn’t say I've got it all figured out yet ✌️. I'm learning as I go, w
 <br>
 
 <!-- source icon: https://dev.to/envoy_/150-badges-for-github-pnk -->
-[![HTML](https://img.shields.io/badge/HTML-%231F1F1F?style=for-the-badge&logo=html5&logoColor=orange)]([https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics))
+[![HTML](https://img.shields.io/badge/HTML-%231F1F1F?style=for-the-badge&logo=html5&logoColor=orange)](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics)
 [![CSS](https://img.shields.io/badge/CSS-%231F1F1F?&style=for-the-badge&logo=css3&logoColor=blue)](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/What_is_CSS)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%231F1F1F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
-[![Dart](https://img.shields.io/badge/Dart-%231F1F1F?style=for-the-badge&logo=dart&logoColor=green)](https://dart.dev/)
-[![Flutter](https://img.shields.io/badge/Flutter-%231F1F1F?style=for-the-badge&logo=flutter&logoColor=blue)](https://flutter.dev/)
+[![Dart](https://img.shields.io/badge/Dart-%231F1F1F?style=for-the-badge&logo=dart&logoColor=green)](https://dart.dev/overview)
+[![Flutter](https://img.shields.io/badge/Flutter-%231F1F1F?style=for-the-badge&logo=flutter&logoColor=blue)](https://docs.flutter.dev/ui)
 
 
 
