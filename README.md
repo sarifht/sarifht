@@ -12,24 +12,12 @@ I'm currently an active Facilitator UI/UX Design at <a href="https://www.infinit
 <br>
 
 ## Tech Stack
-<a href="https://www.w3schools.com/html/">
-  <img align="left" alt="HTML" title="HTML" width="25px" height="25px" src="https://www.svgrepo.com/show/349402/html5.svg" />
-</a>
-<a href="https://www.w3schools.com/css/">
-  <img align="left" alt="CSS" title="CSS" width="26px" height="26px" src="https://www.svgrepo.com/show/349330/css3.svg" />
-</a>
-<a href="https://www.w3schools.com/js/">
-  <img align="left" alt="JavaScript" title="JavaScript" width="24px" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" />
-</a>
-<a href="https://reactjs.org/">
-  <img align="left" alt="React" title="React" width="24px" height="24px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" />
-</a>
-<a href="https://dart.dev/">
-  <img align="left" alt="Dart" title="Dart" width="24px" height="24px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" />
-</a>
-<a href="https://flutter.dev/">
-  <img align="left" alt="Flutter" title="Flutter" width="24px" height="24px" src="https://www.svgrepo.com/show/353751/flutter.svg" />
-</a>
+I'm still diving into these technologies, and honestly, I'm loving every challenge that comes my way ☕. Sure, there are moments when it gets frustrating and I feel down 😭😓🤯, but there are also times when I get a real boost from finally getting something 😊😅🥰.
+
+I wouldn’t say I've got it all figured out yet ✌️. I'm learning as I go, working on projects, and constantly pushing myself 🚀. The more I learn, the more I realize how much there’s still left to learn 🌱.
+
+![JavaScript](https://img.shields.io/badge/javascript-%231F1F1F.svg?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/typescript-%230175C2.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 
   <br>
@@ -45,9 +33,4 @@ I'm currently an active Facilitator UI/UX Design at <a href="https://www.infinit
   </a>
 </p>
 
-## My Streak
-<div style="display: flex; justify-content: space-between; align-items:left; max-width: 100%; center; margin: 0;">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=sarifht&theme=algolia" style="max-width: 100%;" alt="GitHub Streak">
-  </a>
-</div>
+
