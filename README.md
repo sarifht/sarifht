@@ -1,4 +1,4 @@
-# Hi there👋 I'm Sarif Hidayatullah😎
+# Hi There👋 I'm Sarif Hidayatullah😎
 You can call me <b>Sarif</b> not <s>SaRIP</s> yeah 😭 👉👈
 
 Nice to meet you there! and welcome to my profile 🍷 I'm passionate about exploring the world of software engineering, especially front-end development. Let's learn together, and I hope you enjoy the journey as well! 😜😝
