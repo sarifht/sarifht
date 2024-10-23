@@ -7,7 +7,7 @@ I'm currently an active <b>Facilitator UI/UX Design at [Infinite Learning Indone
 
 - 🙌 Let's connect on LinkedIn, you can find the link in my profile on the left.
 - 🕶️ I’m currently learning about Front-End Development and Flutter Development.
-- ⚡ Fun fact: I’m an Electrical Engineering student!
+- ⚡ Fun fact: I’m an Electrical Engineering Student!
 
 <br>
 
