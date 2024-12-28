@@ -3,7 +3,9 @@ You can call me <b>Sarif</b> not <s>SaRIP</s> yeah 😭 👉👈
 
 Nice to meet you there! and welcome to my profile 🍷 I'm passionate about exploring the world of software engineering, especially front-end development. Let's learn together, and I hope you enjoy the journey as well! 😜😝
 
-I'm currently an active <b>Facilitator UI/UX Design at [Infinite Learning Indonesia](https://www.infinitelearning.id)</b>, Looking for guidance in [Android Mobile Development](https://www.infinitelearning.id/learningall) and [Web Development](https://www.infinitelearning.id/learningall), especially in UI/UX Design courses 📱🖥️
+I'm currently an active <b>Facilitator UI/UX Design at [Infinite Learning Indonesia](https://www.infinitelearning.id)</b> 
+
+Looking for guidance in course [Android Mobile Development](https://www.infinitelearning.id/learningall) and course [Web Development](https://www.infinitelearning.id/learningall), especially in UI/UX Design courses 📱🖥️
 
 - 🙌 Let's connect on LinkedIn, you can find the link in my profile on the left.
 - 🕶️ I’m currently learning about Front-End Development and Flutter Development.
