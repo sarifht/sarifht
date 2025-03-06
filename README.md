@@ -3,7 +3,7 @@ You can call me <b>Sarif</b> not <s>SaRIP</s> yeah 😭 👉👈
 
 Nice to meet you there! and welcome to my profile 🍷 I'm passionate about exploring the world of software engineering, especially front-end development. Let's learn together, and I hope you enjoy the journey as well! 😜😝
 
-I’ve been in UI/UX for a while as a facilitator. Now, I’m diving into Flutter and React while staying passionate about UI/UX and tech! 📱🖥️
+I’ve been in UI/UX for a while as a facilitator. Now, I’m diving into Flutter and React while staying passionate about UI/UX and tech! 🔥
 
 - 🙌 Let's connect on LinkedIn, you can find the link in my profile on the left.
 - 🕶️ I’m currently learning about Front-End Development and Flutter Development.
