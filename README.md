@@ -22,8 +22,7 @@ I wouldn’t say I've got it all figured out yet ✌️. I'm learning as I go, w
 [![JavaScript](https://img.shields.io/badge/JavaScript-%231F1F1F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)
 [![React](https://img.shields.io/badge/React-%231F1F1F?style=for-the-badge&logo=react&logoColor=61DAFB)](https://react.dev/)
 [![Dart](https://img.shields.io/badge/Dart-%231F1F1F?style=for-the-badge&logo=dart&logoColor=lightseagreen)](https://dart.dev/overview)
-[![Flutter](https://img.shields.io/badge/Flutter-%231F1F1F?style=for-the-badge&logo=flutter&logoColor=deepskyblue)](https://docs.flutter.dev/ui)
-
+[![Flutter](https://img.shields.io/badge/Flutter-%231F1F1F?style=for-the-badge&logo=flutter&logoColor=blue)](https://docs.flutter.dev/ui)
 
 <br>
 
